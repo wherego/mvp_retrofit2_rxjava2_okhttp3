@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EcarxLiving</string>
+    <string name="main_menu_live">直播</string>
+    <string name="main_menu_music">音乐</string>
+    <string name="main_menu_history">历史</string>
+    <string name="main_menu_setting">设置</string>
+    <string name="press_again_exit">再按一次退出</string>
+</resources>
